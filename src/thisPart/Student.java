@@ -1,5 +1,5 @@
 package thisPart;
-/*
+
 public class Student {
 
     private String name;
@@ -50,4 +50,4 @@ public class Student {
     }
 }
 
- */
+ 
