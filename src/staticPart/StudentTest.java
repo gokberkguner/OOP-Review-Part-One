@@ -1,5 +1,5 @@
 package staticPart;
-/*
+
 public class StudentTest {
     public static void main(String[] args) {
 
@@ -29,5 +29,4 @@ public class StudentTest {
     }
 }
 
- */
-
+ 
