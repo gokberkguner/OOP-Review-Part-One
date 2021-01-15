@@ -1,5 +1,5 @@
 package staticPart;
-/*
+
 public class Student {
 
     private static String university;
@@ -64,5 +64,5 @@ public class Student {
     }
 }
 
- */
+ 
 
