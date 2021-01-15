@@ -1,5 +1,5 @@
 package accessModifiers;
-/*
+
 public class Car {
 
     String brand;
@@ -34,4 +34,4 @@ public class Car {
 
     }
 }
-*/
+
