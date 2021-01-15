@@ -1,5 +1,5 @@
 package finalPart;
-/*
+
 public class Student {
 
     public static final String university = "Uskudar University";
@@ -85,6 +85,6 @@ public class Student {
                 '}';
     }
 }
-*/
+
 
 
