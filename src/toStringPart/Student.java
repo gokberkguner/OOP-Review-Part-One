@@ -1,5 +1,5 @@
 package toStringPart;
-/*
+
 public class Student {
 
     private static String university;
@@ -83,5 +83,5 @@ public class Student {
     }
 }
 
- */
+ 
 
