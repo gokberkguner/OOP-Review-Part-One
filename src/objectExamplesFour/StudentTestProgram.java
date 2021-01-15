@@ -1,5 +1,5 @@
 package objectExamplesFour;
-/*
+
 import java.util.ArrayList;
 
 public class StudentTestProgram {
@@ -42,4 +42,4 @@ public class StudentTestProgram {
     }
 }
 
- */
+ 
